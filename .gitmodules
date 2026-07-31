@@ -1,3 +1,9 @@
 [submodule "Experiment"]
 	path = Experiment
 	url = https://github.com/TMCIT-S-Robocon/PneumaticThrowingMechanism_experiment
+[submodule "Firmware/Shotacon-Receiver"]
+	path = Firmware/Shotacon-Receiver
+	url = https://github.com/TMCIT-S-Robocon/Shotacon-Receiver
+[submodule "Firmware/MD12_Plot"]
+	path = Firmware/MD12_Plot
+	url = https://github.com/TMCIT-S-Robocon/MD12_Plot
