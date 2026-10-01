@@ -7,3 +7,6 @@
 [submodule "Firmware/MD12_Plot"]
 	path = Firmware/MD12_Plot
 	url = https://github.com/TMCIT-S-Robocon/MD12_Plot
+[submodule "Firmware/2026B-main-MCU"]
+	path = Firmware/2026B-main-MCU
+	url = https://github.com/TMCIT-S-Robocon/2026B-main-MCU
